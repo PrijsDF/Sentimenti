@@ -2,7 +2,7 @@
 
 ![Sentimenti Screenshot](/sentimenti_screen.png)
 
-Sentimenti allows you to quickly label texts on a 9-likert scale. Simply click one of the buttons and the text score is automatically saved to the data CSV.
+Sentimenti allows you to quickly label texts on a 9-point Likert scale. Simply click one of the buttons and the text score is automatically saved to the data CSV.
 
 As Sentimenti saves the texts to your local data file, PHP is required to use this application. Fortunately, [XAMPP](https://www.apachefriends.org/) can be used to easily enable this functionality. 
 
@@ -18,6 +18,6 @@ Now, to start labelling your texts:
 2. Navigate to Sentimenti in your browser
 3. Label the texts
 
-Sentimenti automatically saves each newly given score, so feel free to close and continue the process whenever it is convenient.
+Sentimenti automatically saves each newly given score, so feel free to close and continue the process whenever it is convenient. 
 
 Good luck!
